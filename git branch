@@ -1,0 +1,54 @@
+[33mcommit 84708ac120a59260f5782bece0dabc5c2e5d8103[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8f1a3dc b785a5f
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 19:27:18 2022 +0800
+
+    conflict fixed
+
+[33mcommit 8f1a3dcdf358d2dd2a047d1ac8f6f5e8137578f1[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 19:23:56 2022 +0800
+
+    master分支上添加99999999
+
+[33mcommit b785a5f8622ddb5d9678a1624d34288d788fdceb[m[33m ([m[1;32mfenzhi1[m[33m)[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 19:21:33 2022 +0800
+
+    fenzhi1添加888888888
+
+[33mcommit 18de1d3362846f63c23e13409c010c1af7523441[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 19:11:21 2022 +0800
+
+    dev分支上增加内容777777
+
+[33mcommit 348061fb4cad05866bfc3fb8d6548174aeff944d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 17:53:23 2022 +0800
+
+    添加b.txt文件
+
+[33mcommit 7c7ecdf95227de23f9710cf543fd7ce17d6ba865[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 17:48:04 2022 +0800
+
+    一次性提交修改与新增
+
+[33mcommit f39ed6a5b07cdec92d42d39c63c03d46c0494393[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 16:18:02 2022 +0800
+
+    添加33333333
+
+[33mcommit 57a9dbf847c23484e8d701c96ae7cd4e2850e325[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 16:15:28 2022 +0800
+
+    添加222222222
+
+[33mcommit d25756c2ffe3017fe59399fd88568a9f9c6f9454[m
+Author: ZXC <1461900062@qq.com>
+Date:   Mon Oct 24 15:49:14 2022 +0800
+
+    first commit
